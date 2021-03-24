@@ -1,0 +1,4 @@
+﻿  Поразрядная сортировка.cpp
+C:\Users\ADMIN\source\repos\Lessons of prog\Поразрядная сортировка\Поразрядная сортировка.cpp(67,6): warning C4101: j: неиспользованная локальная переменная
+C:\Users\ADMIN\source\repos\Lessons of prog\Поразрядная сортировка\Поразрядная сортировка.cpp(150,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Поразрядная сортировка.vcxproj -> C:\Users\ADMIN\source\repos\Lessons of prog\Debug\Поразрядная сортировка.exe
